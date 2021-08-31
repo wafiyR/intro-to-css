@@ -1,0 +1,17 @@
+
+h1 { font-family: Arial;
+	 color:blue;}
+	 
+p { background-color:#ff3;
+    border:1px solid black;
+	color:red;
+	font-size:150%;
+	padding:1em;
+}
+
+body { font-family: Verdana, Helvetica, Courier;
+	   font-size:12pt;
+	   color: yellow;
+	   background-color: #800000;
+}
+
